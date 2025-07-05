@@ -1,7 +1,8 @@
 ## Thotapalli Nitin
 
-I love ❤️ building and launching products for the past 3+ years across HRTech and FinTech, with a strong focus on analytics, strategy, and operations.  
-I’m currently expanding my portfolio in **Operations Research (OR)** — combining optimization, decision science, and systems modeling to solve real-world problems in business, public systems, and product environments.
+Passionate about building and launching products for the past 3+ years across HRTech and FinTech, with a strong focus on analytics, strategy, and operations.  
+I’m building a portfolio in Operations Research (OR), applying models and systems thinking to real-world decisions across business, public systems, and products.
+
 
 ---
 
@@ -14,7 +15,7 @@ I’m currently expanding my portfolio in **Operations Research (OR)** — combi
 
 ---
 
-### Portfolio Projects (in progress)
+### Portfolio Projects
 - **Capital Allocation Optimizer**: Budget allocation engine balancing strategic priorities and fairness constraints across internal teams.
 - **SLA Optimization**: Queuing-based resource allocation model for equitable service delivery in city operations.
 - **Logistics & Routing**: Last-mile delivery optimization using integer programming.
