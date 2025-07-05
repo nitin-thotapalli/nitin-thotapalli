@@ -1,4 +1,4 @@
-## Thotapalli Nitin
+# Hi I am 👋 Thotapalli Nitin
 
 👉 Passionate about building and launching products for the past 3+ years across HRTech and FinTech, with a strong focus on analytics, strategy, and operations. 
 
