@@ -1,6 +1,7 @@
 ## Thotapalli Nitin
 
-Passionate about building and launching products for the past 3+ years across HRTech and FinTech, with a strong focus on analytics, strategy, and operations.  
+Passionate about building and launching products for the past 3+ years across HRTech and FinTech, with a strong focus on analytics, strategy, and operations. 
+
 I’m building a portfolio in Operations Research (OR), applying models and systems thinking to real-world decisions across business, public systems, and products.
 
 
