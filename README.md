@@ -2,7 +2,7 @@
 
 👉 Passionate about building and launching products for the past 3+ years across HRTech and FinTech, with a strong focus on analytics, strategy, and operations. 
 
-I’m building a portfolio in Business Analytics (BA) & Operations Research (OR), applying models and systems thinking to real-world decisions across business, public systems, and products.
+My portfolio applies optimization and analytics (BA + OR) to solve real-world problems in strategic planning, capital allocation, and logistics — bridging business intuition with mathematical modeling.
 
 
 ---
