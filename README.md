@@ -2,7 +2,7 @@
 
 👉 Passionate about building and launching products for the past 3+ years across HRTech and FinTech, with a strong focus on analytics, strategy, and operations. 
 
-My portfolio applies optimization and analytics (BA + OR) to solve real-world problems in strategic planning, capital allocation, and logistics — bridging business intuition with mathematical modeling.
+My portfolio applies optimization and analytics (BA + OR) to solve real-world problems in **strategic planning, capital allocation, and logistics** — bridging business intuition with mathematical modeling.
 
 
 ---
