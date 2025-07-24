@@ -22,7 +22,12 @@ My portfolio applies optimization and analytics (BA + OR) to solve real-world pr
 - **SLA Optimization**: Queuing-based resource allocation model for equitable service delivery in city operations.
 - **Logistics & Routing**: Last-mile delivery optimization using integer programming.
 - **Feature ROI Analyzer:**
-  A decision-support tool designed to evaluate the return on investment (ROI) of product features by analyzing their usage patterns, development effort, and strategic relevance. The model helps identify underutilized or low-impact features and assists in prioritizing future development efforts based on quantified ROI signals.
+  An internal tool to help PMs, Engineering Leads, and Strategy teams prioritize product features using usage data, dev effort, infra cost, and ROI signals.
+
+  It enables faster, data-backed roadmap decisions, highlights Quick Wins vs. Strategic Bets, and helps reduce feature bloat by aligning effort with business impact.
+
+  Built to support product strategy execution, manage product-level COGS, and improve resource allocation across teams.
+
 ---
 
 ### Skills & Tools
