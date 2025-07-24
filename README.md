@@ -13,6 +13,7 @@ My portfolio applies optimization and analytics (BA + OR) to solve real-world pr
 - Decision Support Systems and Strategy
 - Public Infrastructure Planning and SLA Design
 - Product & Org-level Performance Modeling
+- Internal Tooling & Decision Intelligence for Strategy, Growth, and Product Ops
 
 ---
 
