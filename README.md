@@ -2,7 +2,8 @@
 
 👉 Passionate about building and launching products for the past 3+ years across HRTech x FinTech, with a strong focus on analytics, strategy, and operations. I build internal tools and models that drive clarity in strategy, GTM, and product decisions — from roadmap ROI to capital allocation.
 
-My portfolio applies optimization and analytics (BA + OR) to solve real-world problems in **strategic planning, capital allocation, and logistics**
+My portfolio applies optimization and analytics (BA + OR) to solve real-world problems in **strategic planning, customer success, and operational efficiency**
+
 
 
 ---
