@@ -18,11 +18,10 @@ My portfolio applies optimization and analytics (BA + OR) to solve real-world pr
 ---
 
 ### Portfolio Projects
+-  **Feature ROI Analyzer:** An internal tool to help PMs, Engineering Leads, and Strategy teams prioritize product features by integrating customer usage data, customer feedback, development effort, infrastructure costs, and ROI signals. It enables faster, data-backed roadmap decisions that focus on features driving customer satisfaction, adoption, and retention, highlights Quick Wins vs. Strategic Bets, and reduces feature bloat by aligning effort with customer and business impact. Built to support product strategy execution, improve customer outcomes, and optimize resource allocation across teams.
 - **Capital Allocation Optimizer**: Budget allocation engine balancing strategic priorities and fairness constraints across internal teams.
 - **SLA Optimization**: Queuing-based resource allocation model for equitable service delivery in city operations.
 - **Logistics & Routing**: Last-mile delivery optimization using integer programming.
-- **Feature ROI Analyzer:** An internal tool to help PMs, Engineering Leads, and Strategy teams prioritize product features using usage data, dev effort, infra cost, and ROI signals. It enables faster, data-backed roadmap decisions, highlights Quick Wins vs. Strategic Bets, and helps reduce feature bloat by aligning effort with business impact. Built to support product strategy execution, manage product-level COGS, and improve resource allocation across teams.
-
 ---
 
 ### Skills & Tools
